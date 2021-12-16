@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on large scale virtual screening.
 - 🌱 I’m currently learning about cheminformatics and machine learning-based scoring function.
-- 👯 I’m looking to collaborate on research projects ranging from cheminformatics, virtual screening and machine learning projects.
+- 👯 I’m looking to collaborate on research projects ranging from cheminformatics, virtual screenings and machine learning projects.
 - 📫 How to reach me: saw.simeon@inserm.fr
 
 <!--
