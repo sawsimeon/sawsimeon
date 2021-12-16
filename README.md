@@ -1,10 +1,9 @@
-### Hi there 👋
+### My name is Saw Simeon. Thank you for visiting my profile. 👋
 
-- 🔭 I’m currently working on large-scale structure-based virtual screening.
-- 🌱 I’m currently learning about cheminformatics and machine learning based scoring function.
-- 👯 I’m looking to collaborate on research projects ranging from cheminformatics, virtual screening and machine learning.
+- 🔭 I’m currently working on large scale virtual screening.
+- 🌱 I’m currently learning about cheminformatics and machine learning-based scoring function.
+- 👯 I’m looking to collaborate on research projects ranging from cheminformatics, virtual screening and machine learning projects.
 - 📫 How to reach me: saw.simeon@inserm.fr
-- 😄 Pronouns: ...
 
 <!--
 **sawsimeon/sawsimeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
