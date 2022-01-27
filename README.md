@@ -5,6 +5,13 @@
 - 👯 I’m looking to collaborate on research projects ranging from cheminformatics, virtual screenings and machine learning projects.
 - 📫 How to reach me: saw.simeon@inserm.fr
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/saw-simeon-b5a01090/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louaikb" height="30" width="40" /></a>
+</p>
+
+
 <!--
 **sawsimeon/sawsimeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
