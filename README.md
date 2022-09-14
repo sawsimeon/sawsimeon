@@ -11,9 +11,9 @@
 <a href="https://www.linkedin.com/in/saw-simeon-b5a01090/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louaikb" height="30" width="40" /></a>
 </p>
 
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sawsimeon&show_icons=true&locale=en" alt="sawsimeon" /></p>
-
+-->
 
 
 
